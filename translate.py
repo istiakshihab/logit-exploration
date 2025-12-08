@@ -8,7 +8,7 @@ import re
 from tqdm import tqdm
 
 # Configuration
-ROOT_DIR = "indeterminant"
+ROOT_DIR = "data"
 LANGUAGES = [ "assamese"]
 TRANSLATION_CACHE_FILE = "translation_cache.json"
 
